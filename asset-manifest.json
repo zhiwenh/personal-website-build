@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abeb824f.css",
+    "main.js": "/static/js/main.a3e7a973.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/personal-image.png": "/static/media/personal-image.abfcdb5f526669ea5280.png",
+    "static/media/league-of-legends-cooldown-tracker.png": "/static/media/league-of-legends-cooldown-tracker.ae9020416d5223db91ad.png",
+    "static/media/google-music-visualizer.png": "/static/media/google-music-visualizer.49b673efc4e232af9bfa.png",
+    "static/media/devchain.png": "/static/media/devchain.d59e3346dbb1567048f3.png",
+    "static/media/destore.png": "/static/media/destore.a667c57a16aad241c23a.png",
+    "static/media/delib.png": "/static/media/delib.f4f9c4ceec2471da3638.png",
+    "index.html": "/index.html",
+    "main.abeb824f.css.map": "/static/css/main.abeb824f.css.map",
+    "main.a3e7a973.js.map": "/static/js/main.a3e7a973.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abeb824f.css",
+    "static/js/main.a3e7a973.js"
+  ]
+}
